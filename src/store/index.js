@@ -41,17 +41,6 @@ export default new Vuex.Store({
             },
             {
                 id: '4',
-                manufacturer: 'Indian',
-                model: 'Scout Bobber',
-                power: '100 hp',
-                description: 'Stripped down and blacked out with an aggressive stance and raw power, the Scout Bobber is a modern take on the iconic bobber style.',
-                color: 'Black',
-                displacement: '1,133 cc',
-                year: '2020',
-                image_url: 'https://foxinatardis-images.s3.amazonaws.com/image3-35.jpeg',
-            },
-            {
-                id: '5',
                 manufacturer: 'Ducati',
                 model: 'Panigale V4',
                 power: '157.5 kW (214 hp)',

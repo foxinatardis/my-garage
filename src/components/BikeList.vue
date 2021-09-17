@@ -15,6 +15,7 @@
                             <v-btn
                                 color="accent"
                                 text
+                                ripple
                                 :to="`details/${bike.id}`"
                             >
                                 Details
