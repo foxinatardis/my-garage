@@ -1,0 +1,12 @@
+$body-font-family: 'Merriweather', serif;
+$heading-font-family: 'Open Sans', sans-serif;
+$heading: (
+    'h4': (
+      'size': 2.5rem,
+      'weight': 300,
+      'line-height': 2.5rem,
+      'letter-spacing': .0073529412em,
+      'font-family': $heading-font-family,
+      'text-transform': false
+    ),
+)
